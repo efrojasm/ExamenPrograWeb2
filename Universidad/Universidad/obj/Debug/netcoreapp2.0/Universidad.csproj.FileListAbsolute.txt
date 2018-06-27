@@ -1,0 +1,11 @@
+C:\Users\Drawde\Desktop\Examen\Universidad\Universidad\bin\Debug\netcoreapp2.0\Universidad.deps.json
+C:\Users\Drawde\Desktop\Examen\Universidad\Universidad\bin\Debug\netcoreapp2.0\Universidad.runtimeconfig.json
+C:\Users\Drawde\Desktop\Examen\Universidad\Universidad\bin\Debug\netcoreapp2.0\Universidad.runtimeconfig.dev.json
+C:\Users\Drawde\Desktop\Examen\Universidad\Universidad\bin\Debug\netcoreapp2.0\Universidad.dll
+C:\Users\Drawde\Desktop\Examen\Universidad\Universidad\bin\Debug\netcoreapp2.0\Universidad.pdb
+C:\Users\Drawde\Desktop\Examen\Universidad\Universidad\obj\Debug\netcoreapp2.0\Universidad.csprojAssemblyReference.cache
+C:\Users\Drawde\Desktop\Examen\Universidad\Universidad\obj\Debug\netcoreapp2.0\Universidad.csproj.CoreCompileInputs.cache
+C:\Users\Drawde\Desktop\Examen\Universidad\Universidad\obj\Debug\netcoreapp2.0\Universidad.AssemblyInfoInputs.cache
+C:\Users\Drawde\Desktop\Examen\Universidad\Universidad\obj\Debug\netcoreapp2.0\Universidad.AssemblyInfo.cs
+C:\Users\Drawde\Desktop\Examen\Universidad\Universidad\obj\Debug\netcoreapp2.0\Universidad.dll
+C:\Users\Drawde\Desktop\Examen\Universidad\Universidad\obj\Debug\netcoreapp2.0\Universidad.pdb

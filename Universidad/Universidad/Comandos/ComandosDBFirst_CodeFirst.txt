@@ -1,0 +1,7 @@
+﻿CodeFirst:
+Add-migration Nombre_de_la_nueva_migracion
+Eliminar la primera migracion
+Update-database
+
+DBFirst:
+Scaffold-DbContext "Cadena de conexion de la base de datos"
